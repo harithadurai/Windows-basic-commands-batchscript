@@ -26,44 +26,49 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 
-![alt text](img/1.png)
+<img width="832" height="52" alt="image" src="https://github.com/user-attachments/assets/0ae2b253-ea57-4792-96c4-2d6ae1abccf9" />
+
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
-![alt text](img/2.png)
+<img width="530" height="46" alt="image" src="https://github.com/user-attachments/assets/04512062-1adc-42d7-9c48-fe7f98d69de8" />
+
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
-![alt text](img/3.png)
+<img width="861" height="61" alt="image" src="https://github.com/user-attachments/assets/c0c4023e-2993-4e90-af37-3d9ae154c02d" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
-![alt text](img/4.png)
+<img width="822" height="61" alt="image" src="https://github.com/user-attachments/assets/bf2d390f-8a20-4c34-bff9-da9df40ad7de" />
+
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-![alt text](img/5.png)
+<img width="815" height="57" alt="image" src="https://github.com/user-attachments/assets/590e9bfd-f903-4e22-8800-093f0b2483cc" />
+
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-![alt text](img/6.png)
+<img width="727" height="52" alt="image" src="https://github.com/user-attachments/assets/522e29eb-91b4-4203-adcb-9939f97e0115" />
+
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 
-![alt text](img/7.png)
+<img width="717" height="117" alt="image" src="https://github.com/user-attachments/assets/d974aa15-526b-42b8-aacc-1353a8ab5fd4" />
 
 
 List out all the associated file extensions 
@@ -71,7 +76,7 @@ List out all the associated file extensions
 ## COMMAND AND OUTPUT
 
 
-![alt text](img/8.png)
+<img width="742" height="377" alt="image" src="https://github.com/user-attachments/assets/129665d0-b96a-4b41-a044-a6edfca68d71" />
 
 
 Compare the file hello.txt and rose.txt
@@ -79,7 +84,7 @@ Compare the file hello.txt and rose.txt
 ## COMMAND AND OUTPUT
 
 
-![alt text](img/9.png)
+<img width="816" height="102" alt="image" src="https://github.com/user-attachments/assets/c4e5e84e-09bd-4f01-b46a-a6f986b839d9" />
 
 
 
